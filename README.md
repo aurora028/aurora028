@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garima Singh.
 - 👀 I’m interested in Android/iOS Development.
-- 🌱 I’m currently learning to work in Android Development.
+- 🌱 I’m currently learning a lot of things. There is so much to learn!!
 
 
 <!---
